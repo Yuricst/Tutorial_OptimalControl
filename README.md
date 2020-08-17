@@ -1,2 +1,2 @@
 # Tutorial_OptimalControl
-Tutorial notebooks and functions in optimal control
+Repo contains tutorial notebooks and functions in optimal control in Python. 
